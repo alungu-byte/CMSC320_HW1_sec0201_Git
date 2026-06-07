@@ -9,3 +9,7 @@ Answer: In the medical field, we can analyze the side effects of some pills and 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge keeps full history and it is safer also it adds a merge commit, rebasing rewrites history and it does not add a merge commit.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I hope I will enjoy this class and I will learn interesting things.
