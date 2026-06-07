@@ -1,3 +1,8 @@
+
 Q1: Why might we consider using Git?
 
 Answer: It is easy to track and manage changes of your code.
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: In the medical field, we can analyze the side effects of some pills and make some predictions.
+
